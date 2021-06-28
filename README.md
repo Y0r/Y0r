@@ -2,5 +2,5 @@
 - 👀 I’m interested in web/softwere development
 - ✨ For now I'm working with Drupal and web development
 - 💞️ I develop modules for integration of React component and Telegram notification into Drupal system 
-- 🌱 I’m currently learning Typescript, Pyton and Symfony 
+- 🌱 I’m currently learning Typescript and Symfony 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yura-panchuk-54b7b117b/">LinkenIn</a> profile or panchyk.yuriu@gmail.com.
